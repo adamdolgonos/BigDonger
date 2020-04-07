@@ -1,2 +1,5 @@
 print ("Hello World UwU")
-a=2 
+X = 5*5
+print (X) 
+
+
